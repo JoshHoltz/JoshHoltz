@@ -3,6 +3,19 @@
 
 <!--WELCOME-->
 <h1 align='center'>Hi 👋, I'm Josh Holtz</h1>
+
+<div align='center'>
+<a href="mailto:contact@jholtz.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="http://www.jholtz.co.uk">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
+</a>
+<a href="https://www.linkedin.com/in/joshua-holtz-030b42278/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+</div>
+
 <h3 align='center'>A Web Development & Cyber Security Student</h3>    
 
 <img align="left" src="original-6F2018C6-E372-4B90-B8D2-45F3F07D3251.jpeg" alt='welcomeImg' width="150" height="150" style="margin-right: 20px;"/>
@@ -34,10 +47,6 @@
 
 </p>
 
-<h3>Contact Me: </h3>
-<a href="mailto:contact@jholtz.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
