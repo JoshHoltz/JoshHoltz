@@ -1,5 +1,5 @@
 <!-- TOP IMG -->
-<img src="code.jpg" style="height: 40vh; width: 100vw;" alt="Code Image">
+<!--<img src="code.jpg" style="height: 40vh; width: 100vw;" alt="Code Image">-->
 
 <!--WELCOME-->
 <h1 align='center'>Hi 👋, I'm Josh Holtz</h1>
