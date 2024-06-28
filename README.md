@@ -1,8 +1,7 @@
+<h1 align='center'>Hi 👋, I'm Josh Holtz</h1>
+<h3 align='center'>A Web Development & Cyber Security Student</h3>    
 
-<header>
-  <h1 align='center'>Hi 👋, I'm Josh Holtz</h1>
-  <h2 align='center'>A Web Development & Cyber Security Student</h2>    
-</header>
+<p align='left'> <img src="![original-6F2018C6-E372-4B90-B8D2-45F3F07D3251](https://github.com/JoshHoltz/JoshHoltz/assets/158775876/47d38062-a1df-41f9-9fae-0157013ea894)" alt='welcomeImg'/> </p>
 
 
 <!--
