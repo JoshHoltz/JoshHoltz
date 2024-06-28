@@ -43,9 +43,12 @@
       <img src="JavaScript.svg" width="40" height="40" alt="JS Logo" />
       <img src="TailwindCSS-Dark.svg" width="40" height="40" alt="Tailwind Logo" />
       <img src="MySQL-Dark.svg" width="40" height="40" alt="SQL Logo" />
-      <img src="Python-Dark.svg" width="40" height="40" alt="SQL Logo" />
-      <img src="Kotlin-Dark.svg" width="40" height="40" alt="SQL Logo" />
-        <br>
+      <img src="Python-Dark.svg" width="40" height="40" alt="Python Logo" />
+      <img src="Kotlin-Dark.svg" width="40" height="40" alt="Kotlin Logo" />
+    <br>
+      <img src="Photoshop.svg" width="40" height="40" alt="Photoshop Img">
+      <img src="Illustrator.svg" width="40" height="40" alt="Illustrator Img">
+      <img src="VSCode-Dark.svg" width="40" height="40" alt="VSCode Img">
     </p>
 </div>
 <!--
