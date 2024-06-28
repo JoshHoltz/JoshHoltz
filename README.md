@@ -10,7 +10,7 @@
 
   <div>
   - 🌱 I’m currently learning Android Development: Kotlin<br>
-  - 📫 How to reach me: <a href="http://www.jholtz.com">jholtz.com</a><br>
+  - 📫 How to reach me: <a href="http://www.jholtz.co.uk" target="_blank">jholtz.co.uk</a><br>
   - 👯 I’m looking to collaborate on most things Web Dev
 
   </div>
