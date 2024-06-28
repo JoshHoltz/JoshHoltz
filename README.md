@@ -35,18 +35,19 @@
 </p>
 
 <!-- CODE LANGS -->
-<h3>My Languages: </h3>
-<p align="left"> 
-  <img src="HTML.svg" width="40" height="40" alt="HTML Logo" />
-  <img src="CSS.svg" width="40" height="40" alt="CSS Logo" />
-  <img src="JavaScript.svg" width="40" height="40" alt="JS Logo" />
-  <img src="TailwindCSS-Dark.svg" width="40" height="40" alt="Tailwind Logo" />
-  <img src="MySQL-Dark.svg" width="40" height="40" alt="SQL Logo" />
-  <img src="Python-Dark.svg" width="40" height="40" alt="SQL Logo" />
-  <img src="Kotlin-Dark.svg" width="40" height="40" alt="SQL Logo" />
-
-</p>
-
+<div align='center'>
+<h3>My Languages & Tools: </h3>
+    <p> 
+      <img src="HTML.svg" width="40" height="40" alt="HTML Logo" />
+      <img src="CSS.svg" width="40" height="40" alt="CSS Logo" />
+      <img src="JavaScript.svg" width="40" height="40" alt="JS Logo" />
+      <img src="TailwindCSS-Dark.svg" width="40" height="40" alt="Tailwind Logo" />
+      <img src="MySQL-Dark.svg" width="40" height="40" alt="SQL Logo" />
+      <img src="Python-Dark.svg" width="40" height="40" alt="SQL Logo" />
+      <img src="Kotlin-Dark.svg" width="40" height="40" alt="SQL Logo" />
+        <br>
+    </p>
+</div>
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
