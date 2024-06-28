@@ -1,5 +1,9 @@
-<h1 align='center'>Hi 👋, I'm Josh Holtz</h1>
-<h2 align='center'>A Web Development & Cyber Security Student</h2>
+
+<header>
+  <h1 align='center'>Hi 👋, I'm Josh Holtz</h1>
+  <h2 align='center'>A Web Development & Cyber Security Student</h2>    
+</header>
+
 
 <!--
 **JoshHoltz/JoshHoltz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
