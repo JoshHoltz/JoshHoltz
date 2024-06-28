@@ -1,8 +1,13 @@
+<!-- TOP IMG -->
+<img src="code.jpg" style="height: 40vh; width: 100vw;" alt="Code Image">
+
+<!--WELCOME-->
 <h1 align='center'>Hi 👋, I'm Josh Holtz</h1>
 <h3 align='center'>A Web Development & Cyber Security Student</h3>    
 
 <img align="left" src="original-6F2018C6-E372-4B90-B8D2-45F3F07D3251.jpeg" alt='welcomeImg' width="150" height="150" style="margin-right: 20px;"/>
 
+<!--ABOUT-->
 <p>
   <div margin-to= 1em; margin-bottom= 1em>
     Hi I'm Josh Holtz, a first-year student studying @ the University of Northampton, enrolled on Web Development and Cyber Security. I’m committed to gaining hands-on experience and enhancing my skills to embrace in the dynamic world of technology and security.
@@ -16,6 +21,7 @@
   </div>
 </p>
 
+<!-- CODE LANGS -->
 <h3>My Languages: </h3>
 <p align="left"> 
   <img src="HTML.svg" width="40" height="40" alt="HTML Logo" />
