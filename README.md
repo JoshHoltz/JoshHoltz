@@ -37,19 +37,21 @@
 <!-- CODE LANGS -->
 <div align='center'>
 <h3>My Languages & Tools: </h3>
-    <p> 
-      <img src="HTML.svg" width="40" height="40" alt="HTML Logo" />
-      <img src="CSS.svg" width="40" height="40" alt="CSS Logo" />
-      <img src="JavaScript.svg" width="40" height="40" alt="JS Logo" />
-      <img src="TailwindCSS-Dark.svg" width="40" height="40" alt="Tailwind Logo" />
-      <img src="MySQL-Dark.svg" width="40" height="40" alt="SQL Logo" />
-      <img src="Python-Dark.svg" width="40" height="40" alt="Python Logo" />
-      <img src="Kotlin-Dark.svg" width="40" height="40" alt="Kotlin Logo" />
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
     <br>
-      <img src="Photoshop.svg" width="40" height="40" alt="Photoshop Img">
-      <img src="Illustrator.svg" width="40" height="40" alt="Illustrator Img">
-      <img src="VSCode-Dark.svg" width="40" height="40" alt="VSCode Img">
-    </p>
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) 
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
 </div>
 <!--
 <h3 align="left">Connect with me:</h3>
