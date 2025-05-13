@@ -27,7 +27,7 @@
   </div>
 
   <div>
-  - 🌱 I’m currently learning Backend Development: PHP & MySQL<br>
+  - 🌱 I’m currently learning Frontend Development: React<br>
   - 📫 How to reach me: <a href="http://www.jholtz.co.uk" target="_blank">jholtz.co.uk</a><br>
   - 👯 I’m looking to collaborate on most things Web Dev
 
